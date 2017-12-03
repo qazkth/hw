@@ -1,0 +1,7 @@
+To be able to use the application you need to have at least "mysql-connector-java-5.0.8".
+
+You also need to change the following variables to match your setup!
+
+private final String DATASOURCE = "jdbc:mysql://localhost:3306/files";
+private final String connectUser = "CHANGE THIS TO YOUR USERNAME TO ACCESS THE DATABASE";
+private final String connectPass = "CHANGE THIS TO YOUR PASSWORD TO ACCESS THE DATABASE";
