@@ -1,5 +1,7 @@
 To be able to use the application you need to have at least "mysql-connector-java-5.0.8".
 
+You also need to run the script to set up the database with the table structure, or create your own database that does the same thing.
+
 You also need to change the following variables to match your setup!
 
 private final String DATASOURCE = "jdbc:mysql://localhost:3306/files";
