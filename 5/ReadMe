@@ -2,4 +2,4 @@ Replace the "server/WordDirectory/words.txt" with your own word file, instructio
 
 Replace the ip in the "common library/src/common/ServerInfo.java" with one that works for you, or give your machine running the server that ip.
 
-Include a library (jar) containing the updated code in the "common library/src/" for the server and client to work.
+Include a library (jar) containing the updated code in the "common library/src/" in both the server and client for them to work.
